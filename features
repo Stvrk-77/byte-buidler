@@ -1,0 +1,17 @@
+## fonctionnalités à intégrer :
+
+Catalogue de produits : Un affichage des PC et composants disponibles à la vente avec des filtres (par prix, caractéristiques techniques, etc.).
+
+Système d'évaluation/revente : Une fonctionnalité pour que les clients puissent soumettre leurs anciens PC/composants et recevoir une estimation en temps réel.
+
+Paiements intégrés : Intégration de systèmes de paiement (Stripe, PayPal) pour permettre les achats directement depuis l'application.
+
+Suivi des commandes : Permettre aux utilisateurs de suivre l'état de leur commande ou revente via l'application.
+
+Notifications push : Pour informer les utilisateurs des promotions ou du statut de leur évaluation/revente.*
+
+## Fonctionnalité de Personnalisation :
+Choix des composants : Permettre aux utilisateurs de choisir chaque composant (processeur, carte graphique, RAM, stockage, etc.) pour configurer leur PC idéal.
+Compatibilité des composants : Mettre en place des suggestions intelligentes pour s’assurer que les composants sélectionnés soient compatibles entre eux (ex : compatibilité entre la carte mère et le processeur).
+Simulateur de prix en temps réel : Afficher le prix total du PC personnalisé en fonction des composants sélectionnés.
+Options de livraison et montage : Offrir la possibilité de monter le PC personnalisé avant l'envoi, ou envoyer les composants séparément pour que l’utilisateur puisse le faire lui-même.

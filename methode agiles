@@ -1,0 +1,127 @@
+
+# Plan Agile pour la plateforme de vente de PC et de composants :
+
+Phase 1 : Initiation du projet (Sprint 0)
+
+Durée : 1 à 2 semaines
+
+Objectifs :
+
+Définir la vision du projet.
+Identifier les fonctionnalités principales (MVP).
+Choisir l'outil de développement low code/no code.
+Former l'équipe sur la plateforme choisie (si nécessaire).
+Livrables :
+
+Backlog produit (liste des fonctionnalités à développer).
+Architecture de l'application (base de données, flux utilisateur).
+Planning des prochains sprints.
+Phase 2 : Développement du MVP (Minimum Viable Product)
+Sprint 1 : Design de base et Inscription des utilisateurs
+Durée : 2 semaines
+
+Objectifs :
+
+Créer l'interface utilisateur de base.
+Implémenter les fonctionnalités d’inscription, connexion, et gestion des profils utilisateurs.
+Créer la base de données pour stocker les informations des utilisateurs.
+Livrables :
+
+Interface de connexion/inscription.
+Gestion des profils.
+API ou base de données connectée pour les utilisateurs.
+Sprint 2 : Catalogue des produits
+Durée : 2 semaines
+
+Objectifs :
+
+Mettre en place le catalogue de PC et de composants (avec filtres par catégorie).
+Permettre aux utilisateurs de voir les produits et leurs détails.
+Commencer à intégrer les fonctionnalités de recherche et de filtres (par marque, prix, type).
+Livrables :
+
+Interface catalogue des produits.
+Filtrage et recherche de composants.
+Sprint 3 : Fonctionnalité de revente
+Durée : 2 semaines
+
+Objectifs :
+
+Intégrer une fonctionnalité de soumission d’équipements pour revente.
+Mettre en place le formulaire de soumission avec estimation des prix.
+Automatiser la gestion des soumissions avec notifications aux utilisateurs.
+Livrables :
+
+Formulaire de revente.
+Calculateur d’estimation des prix pour les anciens équipements.
+Notifications pour les soumissions de revente.
+Phase 3 : Fonctionnalités avancées
+Sprint 4 : Personnalisation des PC
+Durée : 3 semaines
+
+Objectifs :
+
+Développer la fonctionnalité de personnalisation pour permettre aux utilisateurs de choisir les composants de leur PC.
+S’assurer que le système vérifie la compatibilité entre les composants choisis.
+Calculer le prix en temps réel en fonction des choix de l'utilisateur.
+Livrables :
+
+Interface de personnalisation des composants.
+Calculateur de compatibilité.
+Simulateur de prix en temps réel.
+Sprint 5 : Paiement et gestion des commandes
+Durée : 2 semaines
+
+Objectifs :
+
+Intégrer un système de paiement (Stripe, PayPal).
+Gérer les commandes et suivre les livraisons pour les utilisateurs.
+Ajouter un tableau de bord pour l’historique des commandes.
+Livrables :
+
+Système de paiement sécurisé.
+Tableau de bord de suivi des commandes.
+Notifications pour la confirmation de commande et l’expédition.
+Phase 4 : Lancements progressifs et itérations
+Sprint 6 : Tests utilisateurs et correction de bugs
+Durée : 2 semaines
+
+Objectifs :
+
+Tester le MVP avec un petit groupe d’utilisateurs pour obtenir des retours.
+Identifier et corriger les bugs.
+Optimiser l’expérience utilisateur en fonction des retours.
+Livrables :
+
+Liste des bugs corrigés.
+Améliorations basées sur les retours utilisateurs.
+Itérations des fonctionnalités en fonction des feedbacks.
+Sprint 7 : Lancement public et suivi post-lancement
+Durée : 2 semaines
+
+Objectifs :
+
+Lancer officiellement l’application.
+Surveiller les performances de l'application et les retours utilisateurs.
+Planifier les futures itérations et nouvelles fonctionnalités.
+Livrables :
+
+Application disponible au public.
+Statistiques et retours utilisateurs.
+Roadmap pour les nouvelles fonctionnalités.
+Phase 5 : Maintenance et évolutions continues
+Durée : Ongoing (sprints réguliers)
+
+Objectifs :
+
+Maintenir et améliorer l'application au fil du temps.
+Ajouter de nouvelles fonctionnalités en fonction des retours (ex : nouveaux types de composants, modes de paiement, services de livraison).
+Optimiser les performances.
+Livrables :
+
+Mises à jour régulières.
+Nouvelles fonctionnalités itératives.
+Réunions et rituels Agile à maintenir tout au long du projet :
+Daily Stand-up : Brève réunion quotidienne pour faire le point sur les progrès, obstacles et objectifs.
+Sprint Review : À la fin de chaque sprint, présenter les fonctionnalités terminées aux parties prenantes.
+Sprint Retrospective : Analyser ce qui a bien fonctionné et ce qui doit être amélioré pour le prochain sprint.
